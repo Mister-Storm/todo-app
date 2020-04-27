@@ -4,8 +4,8 @@
   "description": "creation os a todolist with javascript - react",
   "main": "src/loader.js",
   "scripts": {
-    "dev":"nodemon",
-    "production":"pm2 start src/loader.js --name Todo-app",
+    "dev": "nodemon",
+    "production": "pm2 start src/loader.js --name Todo-app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
